@@ -1,0 +1,14 @@
+title: AISTATS 2009
+description: > # this means to ignore newlines until "baseurl:"
+  Proceedings of the Twelfth International Conference on Artificial Intelligence
+  and Statistics April 16-18, 2009, Clearwater Beach, Florida USA 
+baseurl: "/v5"
+volume: 5
+date: 2009-04-15
+url: "http://proceedings.mlr.press"
+twitter_username: mlresearch
+github_username:  mlresearch
+
+# Build settings
+markdown: kramdown
+theme: minima
