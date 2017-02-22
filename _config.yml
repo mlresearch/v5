@@ -1,15 +1,41 @@
-title: AISTATS 2009
-description: > # this means to ignore newlines until "baseurl:"
-  Proceedings of the Twelfth International Conference on Artificial Intelligence
-  and Statistics April 16-18, 2009, Clearwater Beach, Florida USA 
-baseurl: "/v5"
-url: "http://proceedings.mlr.press"
-logo: SAIS_logo.jpg
+# Site settings
+# Auto generated from v5.bib
+---
+booktitle: Proceedings of the Twelth International Conference on Artificial Intelligence
+  and Statistics
+series: Journal of Machine Learning Research - Proceedings Track
 volume: 5
-date: 2009-04-15
+year: '2009'
+start: 2009-04-16
+end: 2009-04-18
+published: 2009-04-15
+address: Hilton Clearwater Beach Resort, Clearwater Beach, Florida USA
+comments: true
+conference_url: http://www.ics.uci.edu/~aistats/
+shortname: AISTATS
+bibsource: http://jmlr.csail.mit.edu/proceedings/
+layout: proceedings
+key: DykvWM2009
+month: 0
+abstract: 
+origpdf: 
+pdf: "./DykvWM2009/DykvWM2009.pdf"
+sections: 
+editors:
+- given: David van
+  family: Dyk
+- given: Max
+  family: Welling
+title: Proceedings of the Twelth International Conference on Artificial Intelligence
+  and Statistics
+conference: Proceedings of the Twelth International Conference on Artificial Intelligence
+  and Statistics
+email: ''
+description: Proceedings of the Twelth International Conference on Artificial Intelligence
+  and Statistics, Hilton Clearwater Beach Resort, Clearwater Beach, Florida USA
+url: http://proceedings.mlr.press
+baseurl: "/v5"
 twitter_username: mlresearch
-github_username:  mlresearch
-
-# Build settings
+github_username: mlresearch
 markdown: kramdown
-theme: minima
+permalink: "/:title.html"
