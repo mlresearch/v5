@@ -39,3 +39,5 @@ twitter_username: mlresearch
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
+gitub:
+  edit: true
