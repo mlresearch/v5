@@ -13,13 +13,14 @@ abstract: We introduce _adaptive sequential rejection sampling_, an  algorithm f
   graphical models, obtaining exact and approximate  samples in a range of situations.
 pdf: "./mansinghka09a/mansinghka09a.pdf"
 layout: inproceedings
-key: mansinghka09a
+id: mansinghka09a
 month: 0
 firstpage: 400
 lastpage: 407
+page: 400-407
 origpdf: http://jmlr.org/proceedings/papers/v5/mansinghka09a/mansinghka09a.pdf
 sections: 
-authors:
+author:
 - given: Vikash
   family: Mansinghka
 - given: Daniel
@@ -28,4 +29,6 @@ authors:
   family: Jonas
 - given: Joshua
   family: Tenenbaum
+date: '2009-04-15 00:06:40'
+publisher: PMLR
 ---

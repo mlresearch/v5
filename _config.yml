@@ -15,13 +15,13 @@ conference_url: http://www.ics.uci.edu/~aistats/
 shortname: AISTATS
 bibsource: http://jmlr.csail.mit.edu/proceedings/
 layout: proceedings
-key: DykvWM2009
+id: DykvWM2009
 month: 0
 abstract: 
 origpdf: 
 pdf: "./DykvWM2009/DykvWM2009.pdf"
 sections: 
-editors:
+editor:
 - given: David van
   family: Dyk
 - given: Max

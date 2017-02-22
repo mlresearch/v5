@@ -8,15 +8,18 @@ abstract: We extend and apply the PAC-Bayes theorem to the analysis of maximum e
   with the test error.
 pdf: "./shawe-taylor09a/shawe-taylor09a.pdf"
 layout: inproceedings
-key: shawe-taylor09a
+id: shawe-taylor09a
 month: 0
 firstpage: 480
 lastpage: 487
+page: 480-487
 origpdf: http://jmlr.org/proceedings/papers/v5/shawe-taylor09a/shawe-taylor09a.pdf
 sections: 
-authors:
+author:
 - given: John
   family: Shawe-Taylor
 - given: David
   family: Hardoon
+date: '2009-04-15 00:08:00'
+publisher: PMLR
 ---

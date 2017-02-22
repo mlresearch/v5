@@ -13,15 +13,18 @@ abstract: We present a new learning algorithm for Boltzmann machines that contai
   models and perform well on handwritten digit and visual object recognition tasks.
 pdf: "./salakhutdinov09a/salakhutdinov09a.pdf"
 layout: inproceedings
-key: salakhutdinov09a
+id: salakhutdinov09a
 month: 0
 firstpage: 448
 lastpage: 455
+page: 448-455
 origpdf: http://jmlr.org/proceedings/papers/v5/salakhutdinov09a/salakhutdinov09a.pdf
 sections: 
-authors:
+author:
 - given: Ruslan
   family: Salakhutdinov
 - given: Geoffrey
   family: Hinton
+date: '2009-04-15 00:07:28'
+publisher: PMLR
 ---

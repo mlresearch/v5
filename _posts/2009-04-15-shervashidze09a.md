@@ -10,13 +10,14 @@ abstract: State-of-the-art  graph kernels do not scale to large graphs with hund
   by existing graph kernels.
 pdf: "./shervashidze09a/shervashidze09a.pdf"
 layout: inproceedings
-key: shervashidze09a
+id: shervashidze09a
 month: 0
 firstpage: 488
 lastpage: 495
+page: 488-495
 origpdf: http://jmlr.org/proceedings/papers/v5/shervashidze09a/shervashidze09a.pdf
 sections: 
-authors:
+author:
 - given: Nino
   family: Shervashidze
 - given: SVN
@@ -27,4 +28,6 @@ authors:
   family: Mehlhorn
 - given: Karsten
   family: Borgwardt
+date: '2009-04-15 00:08:08'
+publisher: PMLR
 ---
