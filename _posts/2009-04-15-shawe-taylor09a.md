@@ -1,0 +1,22 @@
+---
+title: PAC-Bayes Analysis Of Maximum Entropy Classification
+abstract: We extend and apply the PAC-Bayes theorem to the analysis of maximum entropy
+  learning by considering maximum entropy classification. The theory introduces a
+  multiple sampling technique that controls an effective margin of the bound. We further
+  develop a dual implementation of the convex optimisation that optimises the bound.
+  This algorithm is tested on some simple datasets and the value of the bound compared
+  with the test error.
+pdf: "./shawe-taylor09a/shawe-taylor09a.pdf"
+layout: inproceedings
+key: shawe-taylor09a
+month: 0
+firstpage: 480
+lastpage: 487
+origpdf: http://jmlr.org/proceedings/papers/v5/shawe-taylor09a/shawe-taylor09a.pdf
+sections: 
+authors:
+- given: John
+  family: Shawe-Taylor
+- given: David
+  family: Hardoon
+---
