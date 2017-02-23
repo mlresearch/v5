@@ -9,17 +9,15 @@ year: '2009'
 start: 2009-04-16
 end: 2009-04-18
 published: 2009-04-15
-address: Hilton Clearwater Beach Resort, Clearwater Beach, Florida USA
 comments: 'false'
-conference_url: http://www.ics.uci.edu/~aistats/
 shortname: AISTATS
 bibsource: http://jmlr.csail.mit.edu/proceedings/
 layout: proceedings
 id: DykvWM2009
 month: 0
-abstract: 
+abstract: ''
 origpdf: 
-pdf: "./DykvWM2009/DykvWM2009.pdf"
+pdf: http://proceedings.pmlr.press/DykvWM2009/DykvWM2009.pdf
 sections: 
 editor:
 - given: David van
@@ -27,8 +25,6 @@ editor:
 - given: Max
   family: Welling
 title: Proceedings of the Twelth International Conference on Artificial Intelligence
-  and Statistics
-conference: Proceedings of the Twelth International Conference on Artificial Intelligence
   and Statistics
 email: ''
 description: Proceedings of the Twelth International Conference on Artificial Intelligence
@@ -39,8 +35,17 @@ twitter_username: mlresearch
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
-gitub:
+github:
   edit: true
+  repository: v5
+conference:
+  name: 
+  url: http://www.ics.uci.edu/~aistats/
+  location: Hilton Clearwater Beach Resort, Clearwater Beach, Florida USA
+  dates:
+  - 2009-04-16
+  - 2009-04-17
+  - 2009-04-18
 analytics:
   google:
     tracking_id: UA-92432422-1

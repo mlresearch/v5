@@ -3,13 +3,13 @@ title: Deep Learning using Robust Interdependent Codes
 abstract: We investigate a simple yet effective method to introduce inhibitory and  excitatory
   interactions between units in the layers of a deep neural  network classifier. The
   method is based on the greedy layer-wise procedure  of deep learning algorithms
-  and extends the denoising autoencoder of  Vincent~et~al.~\cite{VincentPLarochelleH2008-small}
+  and extends the denoising autoencoder of  Vincent et al. \citeVincentPLarochelleH2008-small
   by adding asymmetric  lateral connections between its hidden coding units, in a
   manner that is much simpler and  computationally more efficient than previously
   proposed approaches.We  present experiments on two character recognition problems
   which show for  the first time that lateral connections can significantly improve
   the  classification performance of deep networks.
-pdf: "./larochelle09a/larochelle09a.pdf"
+pdf: http://proceedings.pmlr.press/larochelle09a/larochelle09a.pdf
 layout: inproceedings
 id: larochelle09a
 month: 0
@@ -25,6 +25,16 @@ author:
   family: Erhan
 - given: Pascal
   family: Vincent
-date: '2009-04-15 00:05:12'
+date: 2009-04-15
 publisher: PMLR
+container-title: Proceedings of the Twelth International Conference on Artificial
+  Intelligence and Statistics
+volume: '5'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2009
+  - 4
+  - 15
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
