@@ -11,7 +11,7 @@ abstract: We present a new learning algorithm for Boltzmann machines that contai
   inference to be initialized by a single bottom-up pass. We present results on the
   MNIST and NORB datasets showing that deep Boltzmann machines learn good generative
   models and perform well on handwritten digit and visual object recognition tasks.
-pdf: http://jmlr.org/proceedings/papers/v5/salakhutdinov09a/salakhutdinov09a.pdf
+pdf: http://proceedings.mlr.press/v5/salakhutdinov09a/salakhutdinov09a.pdf
 layout: inproceedings
 id: salakhutdinov09a
 month: 0
@@ -24,7 +24,6 @@ author:
   family: Salakhutdinov
 - given: Geoffrey
   family: Hinton
-reponame: v5
 date: 2009-04-15
 address: Hilton Clearwater Beach Resort, Clearwater Beach, Florida USA
 publisher: PMLR

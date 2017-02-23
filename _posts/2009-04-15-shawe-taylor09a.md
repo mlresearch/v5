@@ -6,7 +6,7 @@ abstract: We extend and apply the PAC-Bayes theorem to the analysis of maximum e
   develop a dual implementation of the convex optimisation that optimises the bound.
   This algorithm is tested on some simple datasets and the value of the bound compared
   with the test error.
-pdf: http://jmlr.org/proceedings/papers/v5/shawe-taylor09a/shawe-taylor09a.pdf
+pdf: http://proceedings.mlr.press/v5/shawe-taylor09a/shawe-taylor09a.pdf
 layout: inproceedings
 id: shawe-taylor09a
 month: 0
@@ -19,7 +19,6 @@ author:
   family: Shawe-Taylor
 - given: David
   family: Hardoon
-reponame: v5
 date: 2009-04-15
 address: Hilton Clearwater Beach Resort, Clearwater Beach, Florida USA
 publisher: PMLR

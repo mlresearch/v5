@@ -9,7 +9,7 @@ year: '2009'
 start: 2009-04-16
 end: 2009-04-18
 published: 2009-04-15
-comments: 'false'
+comments: false
 shortname: AISTATS
 bibsource: http://jmlr.csail.mit.edu/proceedings/
 layout: proceedings
@@ -48,4 +48,3 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
-reponame: v5

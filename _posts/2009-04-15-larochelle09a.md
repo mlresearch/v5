@@ -9,7 +9,7 @@ abstract: We investigate a simple yet effective method to introduce inhibitory a
   proposed approaches.We  present experiments on two character recognition problems
   which show for  the first time that lateral connections can significantly improve
   the  classification performance of deep networks.
-pdf: http://jmlr.org/proceedings/papers/v5/larochelle09a/larochelle09a.pdf
+pdf: http://proceedings.mlr.press/v5/larochelle09a/larochelle09a.pdf
 layout: inproceedings
 id: larochelle09a
 month: 0
@@ -24,7 +24,6 @@ author:
   family: Erhan
 - given: Pascal
   family: Vincent
-reponame: v5
 date: 2009-04-15
 address: Hilton Clearwater Beach Resort, Clearwater Beach, Florida USA
 publisher: PMLR

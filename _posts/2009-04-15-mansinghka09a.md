@@ -11,7 +11,7 @@ abstract: We introduce _adaptive sequential rejection sampling_, an  algorithm f
   problems. In  this paper, we present the mathematical and algorithmic underpinnings  of
   our approach and measure its behavior on ferromagnetic Isings and  other probabilistic
   graphical models, obtaining exact and approximate  samples in a range of situations.
-pdf: http://jmlr.org/proceedings/papers/v5/mansinghka09a/mansinghka09a.pdf
+pdf: http://proceedings.mlr.press/v5/mansinghka09a/mansinghka09a.pdf
 layout: inproceedings
 id: mansinghka09a
 month: 0
@@ -28,7 +28,6 @@ author:
   family: Jonas
 - given: Joshua
   family: Tenenbaum
-reponame: v5
 date: 2009-04-15
 address: Hilton Clearwater Beach Resort, Clearwater Beach, Florida USA
 publisher: PMLR
