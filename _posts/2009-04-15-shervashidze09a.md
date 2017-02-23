@@ -8,7 +8,7 @@ abstract: State-of-the-art  graph kernels do not scale to large graphs with hund
   designed for bounded degree graphs. In our experimental evaluation, our novel kernels
   allow us to efficiently compare large graphs that cannot be tackled by existing
   graph kernels.
-pdf: http://proceedings.pmlr.press/shervashidze09a/shervashidze09a.pdf
+pdf: http://proceedings.pmlr.press/v/shervashidze09a/shervashidze09a.pdf
 layout: inproceedings
 id: shervashidze09a
 month: 0

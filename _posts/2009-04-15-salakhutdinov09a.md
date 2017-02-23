@@ -11,7 +11,7 @@ abstract: We present a new learning algorithm for Boltzmann machines that contai
   inference to be initialized by a single bottom-up pass. We present results on the
   MNIST and NORB datasets showing that deep Boltzmann machines learn good generative
   models and perform well on handwritten digit and visual object recognition tasks.
-pdf: http://proceedings.pmlr.press/salakhutdinov09a/salakhutdinov09a.pdf
+pdf: http://proceedings.pmlr.press/v/salakhutdinov09a/salakhutdinov09a.pdf
 layout: inproceedings
 id: salakhutdinov09a
 month: 0
