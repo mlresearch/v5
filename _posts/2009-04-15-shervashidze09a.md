@@ -8,14 +8,13 @@ abstract: State-of-the-art  graph kernels do not scale to large graphs with hund
   designed for bounded degree graphs. In our experimental evaluation, our novel kernels
   allow us to efficiently compare large graphs that cannot be tackled by existing
   graph kernels.
-pdf: http://proceedings.pmlr.press/v/shervashidze09a/shervashidze09a.pdf
+pdf: http://jmlr.org/proceedings/papers/v5/shervashidze09a/shervashidze09a.pdf
 layout: inproceedings
 id: shervashidze09a
 month: 0
 firstpage: 488
 lastpage: 495
 page: 488-495
-origpdf: http://jmlr.org/proceedings/papers/v5/shervashidze09a/shervashidze09a.pdf
 sections: 
 author:
 - given: Nino
@@ -28,6 +27,7 @@ author:
   family: Mehlhorn
 - given: Karsten
   family: Borgwardt
+reponame: v5
 date: 2009-04-15
 address: Hilton Clearwater Beach Resort, Clearwater Beach, Florida USA
 publisher: PMLR
