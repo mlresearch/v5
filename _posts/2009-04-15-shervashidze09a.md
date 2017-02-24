@@ -13,8 +13,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: shervashidze09a
 month: 0
-firstpage: 488
-lastpage: 495
+firstpage: '488'
+lastpage: '495'
 page: 488-495
 sections: 
 author:

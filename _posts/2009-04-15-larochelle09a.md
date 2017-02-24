@@ -14,8 +14,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: larochelle09a
 month: 0
-firstpage: 312
-lastpage: 319
+firstpage: '312'
+lastpage: '319'
 page: 312-319
 sections: 
 author:
