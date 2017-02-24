@@ -13,6 +13,7 @@ abstract: We introduce _adaptive sequential rejection sampling_, an  algorithm f
   graphical models, obtaining exact and approximate  samples in a range of situations.
 pdf: http://proceedings.mlr.press/v5/mansinghka09a/mansinghka09a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: mansinghka09a
 month: 0
 firstpage: 400

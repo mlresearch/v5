@@ -11,6 +11,7 @@ abstract: We investigate a simple yet effective method to introduce inhibitory a
   the  classification performance of deep networks.
 pdf: http://proceedings.mlr.press/v5/larochelle09a/larochelle09a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: larochelle09a
 month: 0
 firstpage: 312

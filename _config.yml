@@ -1,9 +1,7 @@
-# Site settings
-# Auto generated from v5.bib
 ---
 booktitle: Proceedings of the Twelth International Conference on Artificial Intelligence
   and Statistics
-series: Journal of Machine Learning Research - Proceedings Track
+series: Proceedings of Machine Learning Research
 volume: 5
 year: '2009'
 start: 2009-04-16
@@ -48,3 +46,5 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from v5.bib

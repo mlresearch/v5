@@ -10,6 +10,7 @@ abstract: State-of-the-art  graph kernels do not scale to large graphs with hund
   graph kernels.
 pdf: http://proceedings.mlr.press/v5/shervashidze09a/shervashidze09a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: shervashidze09a
 month: 0
 firstpage: 488

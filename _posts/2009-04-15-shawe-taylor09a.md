@@ -8,6 +8,7 @@ abstract: We extend and apply the PAC-Bayes theorem to the analysis of maximum e
   with the test error.
 pdf: http://proceedings.mlr.press/v5/shawe-taylor09a/shawe-taylor09a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: shawe-taylor09a
 month: 0
 firstpage: 480
