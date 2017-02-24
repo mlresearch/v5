@@ -35,8 +35,7 @@ github:
   edit: true
   repository: v5
 conference:
-  name: Proceedings of the Twelth International Conference on Artificial Intelligence
-    and Statistics
+  name: Artificial Intelligence and Statistics
   url: http://www.ics.uci.edu/~aistats/
   location: Hilton Clearwater Beach Resort, Clearwater Beach, Florida USA
   dates:
