@@ -11,8 +11,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: shawe-taylor09a
 month: 0
-firstpage: '480'
-lastpage: '487'
+firstpage: 480
+lastpage: 487
 page: 480-487
 sections: 
 author:

@@ -16,8 +16,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: salakhutdinov09a
 month: 0
-firstpage: '448'
-lastpage: '455'
+firstpage: 448
+lastpage: 455
 page: 448-455
 sections: 
 author:
