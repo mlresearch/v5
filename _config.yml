@@ -34,6 +34,7 @@ description: |
 
   Series Editors:
     Neil D. Lawrence
+date_str: 16--18 Apr
 url: http://proceedings.mlr.press
 baseurl: "/v5"
 twitter_username: mlresearch
@@ -43,6 +44,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v5
+bibtex_copy: true
 email: ''
 conference:
   name: Artificial Intelligence and Statistics
