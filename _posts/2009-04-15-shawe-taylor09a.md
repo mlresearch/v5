@@ -11,6 +11,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: shawe-taylor09a
 month: 0
+tex_title: PAC-Bayes Analysis Of Maximum Entropy Classification
 firstpage: 480
 lastpage: 487
 page: 480-487

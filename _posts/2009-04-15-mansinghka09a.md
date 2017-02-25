@@ -16,6 +16,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: mansinghka09a
 month: 0
+tex_title: Exact and Approximate Sampling by Systematic Stochastic Search
 firstpage: 400
 lastpage: 407
 page: 400-407

@@ -14,6 +14,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: larochelle09a
 month: 0
+tex_title: Deep Learning using Robust Interdependent Codes
 firstpage: 312
 lastpage: 319
 page: 312-319
