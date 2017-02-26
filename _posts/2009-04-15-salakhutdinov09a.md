@@ -20,7 +20,8 @@ tex_title: Deep Boltzmann Machines
 firstpage: 448
 lastpage: 455
 page: 448-455
-sections: 
+order: 448
+cycles: false
 author:
 - given: Ruslan
   family: Salakhutdinov

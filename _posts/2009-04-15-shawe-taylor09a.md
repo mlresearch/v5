@@ -15,7 +15,8 @@ tex_title: PAC-Bayes Analysis Of Maximum Entropy Classification
 firstpage: 480
 lastpage: 487
 page: 480-487
-sections: 
+order: 480
+cycles: false
 author:
 - given: John
   family: Shawe-Taylor

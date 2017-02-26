@@ -20,7 +20,8 @@ tex_title: Exact and Approximate Sampling by Systematic Stochastic Search
 firstpage: 400
 lastpage: 407
 page: 400-407
-sections: 
+order: 400
+cycles: false
 author:
 - given: Vikash
   family: Mansinghka

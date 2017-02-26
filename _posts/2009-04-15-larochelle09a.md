@@ -18,7 +18,8 @@ tex_title: Deep Learning using Robust Interdependent Codes
 firstpage: 312
 lastpage: 319
 page: 312-319
-sections: 
+order: 312
+cycles: false
 author:
 - given: Hugo
   family: Larochelle

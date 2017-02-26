@@ -17,7 +17,8 @@ tex_title: Efficient graphlet kernels for large graph comparison
 firstpage: 488
 lastpage: 495
 page: 488-495
-sections: 
+order: 488
+cycles: false
 author:
 - given: Nino
   family: Shervashidze
