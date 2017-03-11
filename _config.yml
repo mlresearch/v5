@@ -13,15 +13,13 @@ bibsource: http://jmlr.csail.mit.edu/proceedings/
 layout: proceedings
 id: DykvWM2009
 month: 0
-abstract: ''
-tex_title: 
-title: Proceedings of Machine Learning Research
 cycles: false
 editor:
 - given: David van
   family: Dyk
 - given: Max
   family: Welling
+title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Twelth International Conference on Artificial Intelligence and Statistics
     Held in Hilton Clearwater Beach Resort, Clearwater Beach, Florida USA on 16-18 April 2009
@@ -37,7 +35,7 @@ description: |
 date_str: 16--18 Apr
 url: http://proceedings.mlr.press
 baseurl: "/v5"
-twitter_username: mlresearch
+twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
@@ -49,6 +47,7 @@ display:
     bibtex: true
     endnote: true
     apa: true
+    ris: true
   comments: false
 email: ''
 conference:
@@ -64,3 +63,4 @@ analytics:
     tracking_id: UA-92432422-1
 # Site settings
 # Auto generated from v5.bib
+---
