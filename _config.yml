@@ -58,7 +58,7 @@ conference:
   - 2009-04-16
   - 2009-04-17
   - 2009-04-18
-  number: '12'
+  number: 12
 analytics:
   google:
     tracking_id: UA-92432422-1
