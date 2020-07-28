@@ -3,11 +3,14 @@ booktitle: Proceedings of the Twelth International Conference on Artificial Inte
   and Statistics
 series: Proceedings of Machine Learning Research
 volume: 5
-year: '2009'
+year: 2009
 start: 2009-04-16
 end: 2009-04-18
 published: 2009-04-15
-comments: 'false'
+comments: false
+plugins:
+  - jekyll-remote-theme
+remote_theme: lawrennd/proceedings
 shortname: AISTATS
 bibsource: http://jmlr.csail.mit.edu/proceedings/
 layout: proceedings
@@ -15,8 +18,8 @@ id: DykvWM2009
 month: 0
 cycles: false
 editor:
-- given: David van
-  family: Dyk
+- given: David
+  family: van Dyk
 - given: Max
   family: Welling
 title: Proceedings of Machine Learning Research
@@ -39,7 +42,7 @@ twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
-github:
+ghub:
   edit: true
   repository: v5
 display:
