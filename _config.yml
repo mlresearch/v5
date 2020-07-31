@@ -10,7 +10,7 @@ end: 2009-04-18
 published: 2009-04-15
 comments: false
 plugins:
-  - jekyll-remote-theme
+- jekyll-remote-theme
 remote_theme: lawrennd/proceedings
 shortname: AISTATS
 bibsource: http://jmlr.csail.mit.edu/proceedings/
@@ -66,6 +66,6 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/bibtex.bib"
 # Site settings
-# Auto generated from v5.bib
----
+# Original source:  /Users/neil/mlresearch/bibtex.bib
