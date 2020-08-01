@@ -38,6 +38,8 @@ description: |
     Neil D. Lawrence
 date_str: 16--18 Apr
 url: http://proceedings.mlr.press
+author:
+  name: PMLR
 baseurl: "/v5"
 twitter_username: MLResearchPress
 github_username: mlresearch
