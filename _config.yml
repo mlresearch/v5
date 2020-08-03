@@ -10,6 +10,8 @@ end: 2009-04-18
 published: 2009-04-15
 comments: false
 plugins:
+- jekyll-feed
+- jekyll-seo-tag
 - jekyll-remote-theme
 remote_theme: lawrennd/proceedings
 shortname: AISTATS
@@ -44,6 +46,7 @@ baseurl: "/v5"
 twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
+style: pmlr
 permalink: "/:title.html"
 ghub:
   edit: true
