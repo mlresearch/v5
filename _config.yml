@@ -24,7 +24,8 @@ month: 0
 cycles: false
 editor:
 - given: David
-  family: van Dyk
+  family: Dyk
+  prefix: van
 - given: Max
   family: Welling
 title: Proceedings of Machine Learning Research
