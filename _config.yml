@@ -17,7 +17,7 @@ plugins:
 - jekyll-remote-theme
 remote_theme: lawrennd/proceedings
 shortname: AISTATS
-bibsource: http://jmlr.csail.mit.edu/proceedings/
+bibsource: https://jmlr.csail.mit.edu/proceedings/
 layout: proceedings
 id: DykvWM2009
 month: 0
