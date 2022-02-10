@@ -3,10 +3,10 @@ title: Deep Learning using Robust Interdependent Codes
 abstract: We investigate a simple yet effective method to introduce inhibitory and  excitatory
   interactions between units in the layers of a deep neural  network classifier. The
   method is based on the greedy layer-wise procedure  of deep learning algorithms
-  and extends the denoising autoencoder of  Vincent et al. \citeVincentPLarochelleH2008-small
+  and extends the denoising autoencoder of (Vincent et al., 2008)
   by adding asymmetric  lateral connections between its hidden coding units, in a
   manner that is much simpler and  computationally more efficient than previously
-  proposed approaches.We  present experiments on two character recognition problems
+  proposed approaches. We present experiments on two character recognition problems
   which show for  the first time that lateral connections can significantly improve
   the  classification performance of deep networks.
 pdf: http://proceedings.mlr.press/v5/larochelle09a/larochelle09a.pdf
