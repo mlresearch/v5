@@ -15,7 +15,7 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-remote-theme
-remote_theme: lawrennd/proceedings
+remote_theme: mlresearch/jekyll-theme
 shortname: AISTATS
 bibsource: https://jmlr.csail.mit.edu/proceedings/
 layout: proceedings
